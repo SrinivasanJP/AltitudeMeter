@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AltitudeMeter</string>
+    <string name="altitude_meter">Altitude Meter</string>
 </resources>
